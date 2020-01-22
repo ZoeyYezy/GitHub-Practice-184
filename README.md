@@ -77,8 +77,8 @@
 | Ismael Diaz       | Section 003      | IsmaelDiazSandoval   | <https://ismaeldiazsandoval.github.io/Diaz-Repo-Demo/> |
 | Radha Patel        | Section003       | rjp5630           | <https://rjp5630.github.io/GrubHubPagesAssignment/>|
 | Matthew Hines     | Section 003       | h1n3z                | <https://h1n3z.github.io/Stat184Assignment1/>  |
-| Penghao Zeng      | Section 003      | Carina920             | <https://Carina920.github.io/STAT-184/>| 
-
+| Penghao Zeng      | Section 003       | Carina920            | <https://Carina920.github.io/STAT-184/>| 
+| Zoey Ye           | Section 004       | zfy5073              | <https://zoeyyezy.github.io/STAT184-Practice/>|
 <br>
 
 # Integration of RStudio with Git
